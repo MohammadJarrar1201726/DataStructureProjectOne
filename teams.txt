@@ -1,0 +1,8 @@
+Moroco,MAR,2,1,0,3
+Belgium,BEL,1,1,1,-1
+Canada,CAN,0,0,3,-5
+Qatar,QAT,2,1,0,1
+Romania,ROM,2,1,0,-1
+Jordan,JOR,2,1,0,2
+Croatia,CRO,1,2,0,3
+Oman,OMN,2,1,0,3
